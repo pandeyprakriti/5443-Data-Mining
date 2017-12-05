@@ -3,5 +3,5 @@
 | #        | Name                 |
 |:--------:|:--------------------:|
 |   1      |    Jiaxing Liu          |
-|   2      |    Prakriti         |
+|   2      |    Prakriti Pandey        |
 
