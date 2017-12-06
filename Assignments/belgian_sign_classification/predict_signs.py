@@ -4,6 +4,8 @@
 Created on Fri Oct 13 13:59:24 2017
 
 @author: prakritipandey
+Based on the datacamp tutorial to train a NN using TensorFlow to predict which
+category a given Belgian traffic sign will fall into.
 """
 import numpy as np 
 from skimage import data
@@ -28,7 +30,7 @@ def load_data(data_directory):
             images.append(skimage.data.imread(f))
             labels.append(int(d))
     return images, labels
-
+# This root path only works on my laptop
 ROOT_PATH = "/Users/prakritipandey/Desktop"
 train_data_directory = os.path.join(ROOT_PATH, "TrafficSigns/Training")
 test_data_directory = os.path.join(ROOT_PATH, "TrafficSigns/Testing")
