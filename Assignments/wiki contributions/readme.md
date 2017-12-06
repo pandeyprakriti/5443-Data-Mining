@@ -16,10 +16,14 @@
 ![My Powerpoint Presentation](https://github.com/pandeyprakriti/5143-OpSys-Pandey/blob/master/ResNet%20.pptx)
 
 #### Contributed Words
-1. [Microsoft ResNet](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet)
-2. [Vanishing/exploding gradient](https://github.com/rugbyprof/5443-Data-Mining/wiki/Vanishing---exploding-gradient)
-3. [Overfitting](https://github.com/rugbyprof/5443-Data-Mining/wiki/Overfitting)
-4. [Plain network and Residual network](https://github.com/rugbyprof/5443-Data-Mining/wiki/Plain-network-and-Residual-network)
-5. [VGG net](https://github.com/rugbyprof/5443-Data-Mining/wiki/VGG-net)
-6. [Backpropagation](https://github.com/rugbyprof/5443-Data-Mining/wiki/Backpropagation)
+1. [Result-on-imagenet](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#result-on-imagenet)
+2. [Degradation](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#1degradation) 
+3. [Residual-learning](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#2residual-learning) 
+4. [Identity-mapping-by-shortcuts](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#3identity-mapping-by-shortcuts) 
+5. [Layers-of-resnet](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#4layers-of-resnet) 
+6. [Vanishing/exploding gradient](https://github.com/rugbyprof/5443-Data-Mining/wiki/Vanishing---exploding-gradient)
+7. [Overfitting](https://github.com/rugbyprof/5443-Data-Mining/wiki/Overfitting)
+8. [Plain network and Residual network](https://github.com/rugbyprof/5443-Data-Mining/wiki/Plain-network-and-Residual-network)
+9. [VGG net](https://github.com/rugbyprof/5443-Data-Mining/wiki/VGG-net)
+10. [Backpropagation](https://github.com/rugbyprof/5443-Data-Mining/wiki/Backpropagation)
 
